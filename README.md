@@ -1,2 +1,2 @@
 # WifiButton
-Physical ESP8266 Button which can posts a message
+Physical ESP8266 Button which can post a message
